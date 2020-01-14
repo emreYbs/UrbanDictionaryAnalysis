@@ -1,3 +1,6 @@
+ *https://www.kaggle.com/emreucar35/ingilizce-slang-dictionary*
+ 
+
 # UrbanDictionaryAnalysis
 
 **İngilizce'de En Çok Kullanılan ilk 10 Kelime**
